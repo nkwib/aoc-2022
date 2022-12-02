@@ -1,3 +1,9 @@
 [submodule "rust"]
 	path = rust
 	url = https://github.com/nkwib/aoc-2022-rust
+[submodule "go"]
+	path = go
+	url = https://github.com/nkwib/aoc-2022-go
+[submodule "js"]
+	path = js
+	url = https://github.com/nkwib/aoc-2022-js
